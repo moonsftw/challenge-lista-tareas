@@ -1,4 +1,4 @@
-import TaskList from "../components/TaskList.jsx";
+import TaskList from '../components/TaskList.jsx';
 
 function Home() {
     return (
@@ -6,7 +6,7 @@ function Home() {
             
             <TaskList />
         </div>
-    )
+    );
 }
 
 export default Home;
