@@ -55,7 +55,7 @@ npm run dev
 
 6. Abrir la aplicación en el navegador:
    - Frontend: http://localhost:5173
-   - Backend: http://localhost:3000
+   
 
 ## 🌟 Capturas de pantalla
 
@@ -125,11 +125,7 @@ challenge-lista-tareas/
 
 ## 👤 Autor
 
-Facundo - Challenge de ingreso Academia ForIT 2025
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Facundo Nicolás Luna - Challenge de ingreso Academia ForIT 2025
 
 ## 🔗 Enlaces
 
